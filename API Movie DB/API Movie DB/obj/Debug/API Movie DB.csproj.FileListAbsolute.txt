@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\bin\Debug\API Movie DB.exe.config
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\bin\Debug\API Movie DB.exe
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\bin\Debug\API Movie DB.pdb
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API Movie DB.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API_Movie_DB.Properties.Resources.resources
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API Movie DB.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API Movie DB.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API Movie DB.exe
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API Movie DB.pdb
+C:\Users\USER\Desktop\exam 2 eme annee 2 eme trimetre\ReactNeative\API Movie DB\API Movie DB\obj\Debug\API_Movie_DB.Movie.resources
